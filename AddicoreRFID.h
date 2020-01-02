@@ -1,11 +1,12 @@
 /*
  * AddicoreRFID.h - an Arduino library for use with the Addicore RFID-RC522 Module which you
    can acquire at www.addicore.com
- * AUTHORS: Craig Thompson and Aaron Norris
+ * AUTHORS: Craig Thompson, Aaron Norris, Alex McKay
  * Created: August 2014
+ * Updated: January 2020
  
  ===========================================================================
- Copyright (c) 2014 Addicore LLC.  All rights reserved.
+ Copyright (c) 2020 Addicore.  All rights reserved.
  
  The AddicoreRFID Arduino Library is free software: you can redistribute it
  and/or modify it under the terms of the GNU General Public License as
